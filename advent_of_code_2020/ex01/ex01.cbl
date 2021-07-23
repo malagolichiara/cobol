@@ -3,7 +3,7 @@
   ENVIRONMENT DIVISION.                                           
   INPUT-OUTPUT SECTION.                                            
   FILE-CONTROL.                                                
-      SELECT FILE1 ASSIGN "input01.txt"                                
+      SELECT FILE1 ASSIGN "input.txt"
       ORGANIZATION IS LINE SEQUENTIAL                                   
       ACCESS MODE IS SEQUENTIAL                                    
       FILE STATUS IS WS-FS.                                       
